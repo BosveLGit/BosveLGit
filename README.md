@@ -1,4 +1,5 @@
-- Java developer, 26 yo.
+# Hi! My name is Dmitrii! I am a Java & 1C Developer
+
 - Middle developer and team lead in a company that creates leading products on 1C in their fields.
 - For the last 8 months I have been actively studying Java to expand my stack and change my work profile.
 - Implemented a pet project in Java - telegram bot @RealBirthdayNotifierBot (available on public repository).
